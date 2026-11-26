@@ -1,0 +1,4 @@
+project_id = "fiber-cookies"
+
+[functions.submit-lead]
+verify_jwt = true
